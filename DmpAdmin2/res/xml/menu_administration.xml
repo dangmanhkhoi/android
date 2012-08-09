@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<sub_menus>
+    <item title="DMP Management"/>
+    <item title="DMP Service Account"/>
+    <item title="Manage WAAS Share" />
+    <item title="Restore Default Settngs" />
+    <item title="Save and Restart DMP" />
+    <item title="Upgrade Firmware" />
+</sub_menus>

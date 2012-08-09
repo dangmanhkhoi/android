@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<sub_menus>
+    <item title="Startup"/>
+    <item title="Display Attributes"/>
+    <item title="Failover" />
+    <item title="Flash" />
+    <item title="Internal Storage" />
+    <item title="Medianet" />
+    <item title="Network" />
+    <item title="NTP" />
+    <item title="Remote Mappings" />
+    <item title="Syslog" />
+    <item title="Touch Screens" />
+    <item title="Video" />    
+</sub_menus>

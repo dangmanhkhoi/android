@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<sub_menus>
+    <item title="Flash Playback"/>
+    <item title="Media Playback"/>
+    <item title="Serial Interface" />
+</sub_menus>
